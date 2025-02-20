@@ -34,8 +34,10 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/AI-Packet-Detector.git
-   cd AIPacketDetector
+   git clone https://github.com/your-repo/AI-Packet-Detector.git](https://github.com/your-username/AI-Packet-Detector.git
+)
+   cd AI-Packet-Detector
+
    ```
 2. Install dependencies:
    ```sh
