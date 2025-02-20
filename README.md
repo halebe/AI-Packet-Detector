@@ -1,7 +1,6 @@
 # AI Packet Detector
 
 ## Overview
-
 AI Packet Detector is a **real-time network monitoring tool** that detects anomalous network packets using **machine learning**. It includes:
 
 - **Automated anomaly detection** using a trained RandomForest model.
@@ -34,10 +33,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/AI-Packet-Detector.git](https://github.com/your-username/AI-Packet-Detector.git
-)
+   git clone https://github.com/halebe/AI-Packet-Detector.git
    cd AI-Packet-Detector
-
    ```
 2. Install dependencies:
    ```sh
@@ -87,4 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Pull requests are welcome! Feel free to submit issues and suggest improvements.
-
