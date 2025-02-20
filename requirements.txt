@@ -1,0 +1,8 @@
+﻿flask
+scapy
+pandas
+numpy
+joblib
+threading
+smtplib
+email
